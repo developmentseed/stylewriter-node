@@ -1,0 +1,21 @@
+{
+    "name": "stylewriter",
+    "description": "Utilities for map-based visualization",
+    "main": "./index",
+    "author": "Tom MacWright",
+    "version": "0.0.1",
+    "repository" :
+    {
+        "type" : "git",
+        "url" : "http://github.com/developmentseed/stylewriter-node.git"
+    },
+    "bugs" : {
+        "web" : "http://github.com/developmentseed/stylewriter-node/issues"
+    }
+    "licenses" : [
+        {
+            "type" : "BSD",
+            "url" : "http://github.com/developmentseed/stylewriter-node/raw/master/LICENSE"
+        }
+    ]
+}
