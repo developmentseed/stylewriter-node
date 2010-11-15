@@ -4,15 +4,15 @@
     "main": "./index",
     "author": "Tom MacWright",
     "version": "0.0.1",
-    "repository" :
-    {
+    "repository": {
         "type" : "git",
         "url" : "http://github.com/developmentseed/stylewriter-node.git"
     },
-    "bugs" : {
+    "bugs": {
         "web" : "http://github.com/developmentseed/stylewriter-node/issues"
-    }
-    "licenses" : [
+    },
+    "dependencies": ['underscore'],
+    "licenses": [
         {
             "type" : "BSD",
             "url" : "http://github.com/developmentseed/stylewriter-node/raw/master/LICENSE"
